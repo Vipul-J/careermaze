@@ -1,0 +1,96 @@
+body{
+  font-family:  "Catamaran", sans-serif;
+  background-color: #d9e9f535;
+}
+@import url("https://fonts.googleapis.com/css?family=Catamaran:300,400,500,600,700,800,900|Roboto:300,300i,400,400i,500,500i,700,700i,900,900i");
+
+
+.blue-txt{
+    color: #15b0df;
+}
+
+.btn-outline-primary{  
+  font-weight: bold;
+  border-color: #15b0df;
+  color: #15b0df;
+}
+
+.btn-outline-primary:hover{
+  background-color: #15b0df;
+  outline: none;
+  border: none;
+  font-weight: bold;
+  transition: .7s;
+}
+
+.blue-bg{
+  background-color: #15b0df;
+}
+
+.darkblue-txt{
+    color: #2f5a72;
+}
+
+.para-large-txt{
+  font-size:1.5em ;
+}
+
+.sec-heading{
+  font-size: 3em;
+}
+
+.typing-demo {
+  width: 11ch;
+  animation: typing 2s steps(22), blink .5s step-end infinite alternate;
+  white-space: nowrap;
+  overflow: hidden;
+  border-right: 3px solid;
+  font-size:4em;
+}
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+}
+    
+@keyframes blink {
+  50% {
+    border-color: transparent
+  }
+}
+
+@keyframes wave-animation {
+    0% {
+      transform: rotate(0deg);
+    }
+    10% {
+      transform: rotate(14deg);
+    }
+    20% {
+      transform: rotate(-8deg);
+    }
+    30% {
+      transform: rotate(14deg);
+    }
+    40% {
+      transform: rotate(-4deg);
+    }
+    50% {
+      transform: rotate(10deg);
+    }
+    60% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+  
+  .wave {
+    animation-duration: 2.5s;
+    animation-iteration-count: infinite;
+    animation-name: wave-animation;
+    display: inline-block;
+    transform-origin: 70% 70%;
+  }
