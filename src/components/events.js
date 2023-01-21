@@ -81,7 +81,12 @@ function events() {
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                Basic Rules comes here
+                            <h2 class="text-center fw-bold darkblue-txt">Style and Show off!</h2>
+                            <h5 className='text-align-left'>Be the creative coder with cited approach​</h5> 
+                            <h5 className='text-align-left fw-bold'>PREREQUISITE : </h5>
+                            <h6 className='text-align-left'> -- Creativity, Content, Structure and Design</h6>
+                            <h6 className='text-align-left'> -- Laptop and a mobile with data</h6>
+                            <h5 className='text-align-left fw-bold'>Don't worry, it's not a coding contest 😇</h5>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary fw-bold" data-bs-dismiss="modal">Ok</button> 
@@ -98,7 +103,11 @@ function events() {
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                Basic Rules comes here
+                            <h2 class="text-center fw-bold darkblue-txt">Scrutiny of Resume</h2>
+                            <h5 className='text-align-left'>Build the best and attractive resume of all time.​​</h5> 
+                            <h5 className='text-align-left fw-bold'>PREREQUISITE : </h5>
+                            <h6 className='text-align-left'> -- Quality, Flow of Content and Depth.</h6>
+                            <h6 className='text-align-left'> -- Laptop and a mobile with data</h6>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary fw-bold" data-bs-dismiss="modal">Ok</button> 
@@ -115,7 +124,12 @@ function events() {
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                Basic Rules comes here
+                            <h2 class="text-center fw-bold darkblue-txt">Attempt with Attitude</h2>
+                            <h5 className='text-align-left'>Be the big brain and show your logics.</h5> 
+                            <h5 className='text-align-left fw-bold'>PREREQUISITE : </h5>
+                            <h6 className='text-align-left'> -- Attitude is must 😎</h6>
+                            <h6 className='text-align-left'> -- Laptop and a mobile with data</h6>
+                            <h5 className='text-align-left fw-bold'>Don't worry, there's no coding involved :-))</h5>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary fw-bold" data-bs-dismiss="modal">Ok</button> 
@@ -132,7 +146,10 @@ function events() {
                                 <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                             </div>
                             <div class="modal-body">
-                                Basic Rules comes here
+                            <h2 class="text-center fw-bold darkblue-txt">Win with your Words</h2>
+                            <h5 className='text-align-left'>Be Humble, Creative and Convincing</h5> 
+                            <h5 className='text-align-left fw-bold'>PREREQUISITE : </h5>
+                            <h6 className='text-align-left'> -- Everything matters 😉 </h6> 
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary fw-bold" data-bs-dismiss="modal">Ok</button> 
