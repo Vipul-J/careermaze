@@ -7,6 +7,7 @@ import Teaser from '../components/teaser';
 import Events from '../components/events';
 import Register from '../components/register';
 import Footer from '../components/footer';
+import Team from '../components/team';
 
 function home() {
     return (
@@ -19,6 +20,7 @@ function home() {
             <Skills />
             <Events />
             <Register />
+            <Team />
             <Footer />
         </>
     );
