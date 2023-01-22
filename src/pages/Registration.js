@@ -24,7 +24,7 @@ function Registration() {
         rollno5: "",
         name6: "",
         rollno6: "",
-        comments: ""
+        name7: ""
     });
     const { register, handleSubmit, reset, formState: { errors } } = useForm();
     const [SubmitButton, setSubmitButton] = useState('SUBMIT');
@@ -34,7 +34,7 @@ function Registration() {
         setSubmitButton('LOADING...');
         setDisableSubmitButton(true);
         try {
-            let apiData = axios.post(`https://sheet.best/api/sheets/6034a981-41e9-4ca4-8cd7-9c6e705e1ad2`, {
+           let apiData = await axios.post(`https://inhouse-generic-services.el.r.appspot.com/write`, {
                 name: data.name,
                 rollno: data.rollno,
                 name2: data.name2,
@@ -47,23 +47,24 @@ function Registration() {
                 rollno5: data.rollno5,
                 name6: data.name6,
                 rollno6: data.rollno6,
+                name7:data.name7,
                 sheetName: 'TPC Test',
                 spreadsheetId: '1JdA9ty-u5VOXQI71TbWulRdTBfOTbIAzTxxV56iIKUs'
             }, '', {
                 "Content-type": "application/json"
             });
             if (apiData) {
-                setSubmitButton('SAVE RECORD');
+                setSubmitButton('SUBMIT');
                 toast.info('Thank you for registering');
                 reset();
                 setDisableSubmitButton(false);
             } else {
-                setSubmitButton('SAVE RECORD');
+                setSubmitButton('SUBMIT');
                 toast.error('Something went wrong');
                 setDisableSubmitButton(false);
             }
         } catch (e) {
-            setSubmitButton('SAVE RECORD');
+            setSubmitButton('SUBMIT');
             toast.error('Something went wrong');
             setDisableSubmitButton(false);
         }
@@ -220,9 +221,9 @@ function Registration() {
                                 {/* TL NAME */}
                                 <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
                                     <label htmlFor="inputName" className="form-label fw-bold">Name of Team Lead<span className="text-danger">*</span></label>
-                                    <input type="text" className="form-control" Placeholder="Name of team lead" id="inputname6" defaultValue={InputFields.name6} {...register("name6", { required: true, maxLength: 85 })} />
-                                    <div className="fs-12rem text-danger">{errors.name6?.type === "required" && "Name of TL is Mandatory"}</div>
-                                    <div className="fs-12rem text-danger">{errors.name6?.type === "maxLength" && "Name cannot be more then 85 characters"}</div>
+                                    <input type="text" className="form-control" Placeholder="Name of team lead" id="inputname7" defaultValue={InputFields.name7} {...register("name7", { required: true, maxLength: 85 })} />
+                                    <div className="fs-12rem text-danger">{errors.name7?.type === "required" && "Name of TL is Mandatory"}</div>
+                                    <div className="fs-12rem text-danger">{errors.name7?.type === "maxLength" && "Name cannot be more then 85 characters"}</div>
                                 </div>
                             </div>
 
