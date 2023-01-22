@@ -72,61 +72,62 @@ function Registration() {
     return (
         <>
             <Navbar />
-            <section className="mb-4 mt-4">
-                <div className="container">
-                    <div className="row">
-                        <div className="col">
-                            <h3 className='sec-heading fw-bold darblue-txt'>Registration</h3>
-                        </div>
-                    </div>
-                </div>
-            </section>
             <section className="mb-4">
 
 
                 <div className="container">
-                    <div className="row">
-                        <div className="col-sm ">
-                            <div className="my-4 d-flex darkblue-txt">
-                                <div className="pe-3">
-                                    <FontAwesomeIcon icon={faWandMagicSparkles} size='2xl' />
-                                </div>
-                                <div>
-                                    <h3>Style and Show Off!</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-sm ">
-                            <div className="my-4 d-flex darkblue-txt">
-                                <div className="pe-3">
-                                    <FontAwesomeIcon icon={faPrescriptionBottle} size='2xl' />
-                                </div>
-                                <div>
-                                    <h3>Scrutiny of Resume</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-sm ">
-                            <div className="my-4 d-flex darkblue-txt">
-                                <div className="pe-3">
-                                    <FontAwesomeIcon icon={faFaceSmileBeam} size='2xl' />
-                                </div>
-                                <div>
-                                    <h3>Attempt with Attitude</h3>
-                                </div>
-                            </div>
-                        </div>
-                        <div className="col-sm ">
-                            <div className="my-4 d-flex darkblue-txt">
-                                <div className="pe-3">
-                                    <FontAwesomeIcon icon={faShieldHalved} size='2xl' />
-                                </div>
-                                <div>
-                                    <h3>Win with your Words</h3>
-                                </div>
-                            </div>
-                        </div>
 
+
+                        <div class="text-center darkblue-txt mt-4 mb-4">
+                            <h1 className='sec-heading fw-bold text-decoration-underline'>REGISTRATION</h1>
+                            <h3 class="text-inverse">
+                                Participants for the events should be in group of 6.
+                            </h3>
+                            <h3 className='fw-bold'>(Group should have participants from atleast 3 different classes)
+                            </h3>
+
+                        </div>
+                            <div className="row">
+                            <div className="col-sm ">
+                                <div className="my-4 d-flex darkblue-txt">
+                                    <div className="pe-3">
+                                        <FontAwesomeIcon icon={faWandMagicSparkles} size='2xl' />
+                                    </div>
+                                    <div>
+                                        <h3>Style and Show Off!</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-sm ">
+                                <div className="my-4 d-flex darkblue-txt">
+                                    <div className="pe-3">
+                                        <FontAwesomeIcon icon={faPrescriptionBottle} size='2xl' />
+                                    </div>
+                                    <div>
+                                        <h3>Scrutiny of Resume</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-sm ">
+                                <div className="my-4 d-flex darkblue-txt">
+                                    <div className="pe-3">
+                                        <FontAwesomeIcon icon={faFaceSmileBeam} size='2xl' />
+                                    </div>
+                                    <div>
+                                        <h3>Attempt with Attitude</h3>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="col-sm ">
+                                <div className="my-4 d-flex darkblue-txt">
+                                    <div className="pe-3">
+                                        <FontAwesomeIcon icon={faShieldHalved} size='2xl' />
+                                    </div>
+                                    <div>
+                                        <h3>Win with your Words</h3>
+                                    </div>
+                                </div>
+                            </div>
                     </div>
                     <div className="col-sm ">
                         <form className="p-4 bg-light border" onSubmit={handleSubmit(onSubmit)}>
