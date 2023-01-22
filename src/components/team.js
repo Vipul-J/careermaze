@@ -29,7 +29,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 function team() {
     return (
         <>
-            <div className='container' id='events'>
+            <div className='container' id='committee'>
                 <div class="text-center mt-4 " id="Teaser">
                     <h1 class="fw-bold sec-heading darkblue-txt">Placement Committee</h1>
                     <h4 className='class="fw-bold darkblue-txt"'>“Coming together is a beginning. Keeping together is progress. Working together is success.” </h4>
