@@ -54,7 +54,7 @@ function Registration() {
             });
             if (apiData) {
                 setSubmitButton('SAVE RECORD');
-                toast.info('Thank you for your feedback');
+                toast.info('Thank you for registering');
                 reset();
                 setDisableSubmitButton(false);
             } else {
