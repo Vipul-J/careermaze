@@ -91,7 +91,7 @@ function events() {
                                 <h5 className='text-align-left fw-bold'>Don't worry, it's not a coding contest 😇</h5>
                                 <h6 className='text-align-left fw-bold h5'>Co-ordinators: </h6>
                                 <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9880937463'> Rahul A <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
-                                <span class="darkblue-txt fw-bold"> and </span>
+                            
                                 <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8792860153'> Aishwarya H <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
                             </div>
                             <div class="modal-footer">
@@ -116,8 +116,8 @@ function events() {
                                 <h6 className='text-align-left'> -- Laptop and a mobile with data</h6>
                                 <h6 className='text-align-left fw-bold h5'>Co-ordinators: </h6>
                                 <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7259620168'> Veeresh K <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
-                                <span class="darkblue-txt fw-bold"> and </span>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7259620168'> Muskan D <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
+                            
+                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8867899280'> Muskan D <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary fw-bold" data-bs-dismiss="modal">Ok</button>
@@ -139,12 +139,10 @@ function events() {
                                 <h5 className='text-align-left fw-bold'>PREREQUISITE : </h5>
                                 <h6 className='text-align-left'> -- Attitude is must 😎</h6>
                                 <h6 className='text-align-left'> -- Laptop and a mobile with data</h6>
-                                <h5 className='text-align-left fw-bold'>Don't worry, there's no coding involved :-))</h5>
-                                <div className='container'>
-                                    <h6 className='text-align-left fw-bold'>Co-ordinators: </h6>
-                                    <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7259620168'> D G Abhay <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
-                                    <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7259620168'> Harshita S <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
-                                </div>
+                                <h5 className='text-align-left fw-bold'>Don't worry, there's no coding involved :-))</h5> 
+                                    <h6 className='text-align-left fw-bold h5'>Co-ordinators: </h6>
+                                    <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9113849352'> D G Abhay <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
+                                    <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9606328977'> Pragnya S <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a> 
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary fw-bold" data-bs-dismiss="modal">Ok</button>
@@ -166,9 +164,9 @@ function events() {
                                 <h5 className='text-align-left fw-bold'>PREREQUISITE : </h5>
                                 <h6 className='text-align-left'> -- Everything matters 😉 </h6>
                                 <h6 className='text-align-left fw-bold h5'>Co-ordinators: </h6>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7259620168'> Nikhil R <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
-                                <span class="darkblue-txt fw-bold"> and </span>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7259620168'> Shreya D <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
+                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7899272068'> Nikhil R <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
+                            
+                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9019064122'> Shreya D <FontAwesomeIcon icon={faSquareWhatsapp} size='xl' /></a>
                             </div>
                             <div class="modal-footer">
                                 <button type="button" class="btn btn-secondary fw-bold" data-bs-dismiss="modal">Ok</button>
