@@ -26,7 +26,7 @@ function navbar() {
                                 <a className="nav-link fw-bold darkblue-txt" href="#events">EVENTS</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link fw-bold darkblue-txt" href="#committee">COMMITTEE</a>
+                                <a className="nav-link fw-bold darkblue-txt" href="#committee">TALENT AQUISTION CELL</a>
                             </li>
                             {/* <li className="nav-item">
                                 <a className="nav-link fw-bold darkblue-txt" href="#help">HELP</a>

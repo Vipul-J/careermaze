@@ -5,9 +5,9 @@ function about() {
     return (
         <>
             <div class="container" id='about'>
-                <div class="d-flex invi-txt-head justify-content-center mt-4 " id="about">
-                    <h2 class="fw-bold sec-heading darkblue-txt">What is Career Maze?</h2>
-                </div>
+            <div class="d-flex justify-content-center mt-4 mb-4">
+            <h1 class="fw-bold sec-heading darkblue-txt">What is Career Maze?</h1>
+        </div>
 
                 <div class="row">
                     <div class="col-lg-6">
@@ -18,12 +18,12 @@ function about() {
                     <div class="col-lg-6">
                         <div className=' text-lg-left'>
                             <p className='para-large-txt'>
-                                Career Maze Is an in-house event organized by <span className='text-danger fw-bold'> Talent Acquisition Cell </span>. Career Maze stands to encourage, motivate and prepare students for placement drives with their blooming skills and great minds.
+                                Career Maze is an in-house event organized by <span className='text-danger fw-bold'> Talent Acquisition Cell </span>. Career Maze stands to encourage, motivate and prepare students for placement drives with their blooming skills and great minds.
                             </p>
                             <p className='para-large-txt'>
-                                It provides a unique opportunity to learn about their skills, experience the interview process, and learn about creation and innovation within budding technocrats.
+                                It provides a unique opportunity to learn about their skills, experience the interview process, and know about creation and innovation within budding technocrats.
                                 <br />
-                                Career Maze is here to provide students with a life filled with exciting and energetic events and unforgettable memories with a motive to prepare students to get placed without any fear with the enlightened journey - <br /> "Class se Corporate tak!"
+                                Career Maze is here to provide students with a life filled with exciting and energetic events and unforgettable memories with a motive to prepare students to get placed without any fear with an enlightened journey - <br /> <span className='fw-bold darkblue-txt'> "Class se Corporate tak!" </span>
                             </p>
                         </div>
                     </div>

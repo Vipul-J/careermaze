@@ -38,7 +38,7 @@ function Registration() {
                 name: data.name,
                 rollno: data.rollno,
                 name2: data.name2,
-                rollno: data.rollno,
+                rollno2: data.rollno2,
                 name3: data.name3,
                 rollno3: data.rollno3,
                 name4: data.name4,
@@ -216,14 +216,6 @@ function Registration() {
                                     <input type="text" Placeholder="Rollno of Participant 6" className="form-control" id="inputName2" defaultValue={InputFields.rollno6} {...register("rollno6", { required: true, maxLength: 5 })} />
                                     <div className="fs-12rem text-danger">{errors.rollno6?.type === "required" && "Rollno is Mandatory" || "It should be in format 3AXXX"}</div>
                                     <div className="fs-12rem text-danger">{errors.rollno6?.type === "maxLength" && "Rollno cannot be more then 5 characters"}</div>
-                                </div>
-
-                                {/* TL NAME */}
-                                <div className="col-12 col-sm-12 col-md-12 col-lg-6 col-xl-6">
-                                    <label htmlFor="inputName" className="form-label fw-bold">Name of Team Lead<span className="text-danger">*</span></label>
-                                    <input type="text" className="form-control" Placeholder="Name of team lead" id="inputname7" defaultValue={InputFields.name7} {...register("name7", { required: true, maxLength: 85 })} />
-                                    <div className="fs-12rem text-danger">{errors.name7?.type === "required" && "Name of TL is Mandatory"}</div>
-                                    <div className="fs-12rem text-danger">{errors.name7?.type === "maxLength" && "Name cannot be more then 85 characters"}</div>
                                 </div>
                             </div>
 

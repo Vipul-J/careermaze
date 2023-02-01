@@ -181,10 +181,10 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">Harshit V Vaidya</h5>
                                <p class="card-text fw-bold">E2E Hiring Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8762203544
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href=' https://www.linkedin.com/in/harshit-vaidya-7a3854229'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href=' https://instagram.com/harshit.vaidya.79?igshid=ZmZhODViOGI='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
@@ -209,9 +209,9 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">Aishwarya C</h5>
                                <p class="card-text fw-bold">Post-Offers Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9380913935 
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/aishwarya-c-1a5b1522a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
                                <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
@@ -223,10 +223,10 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">Shreya Dalbanjan</h5>
                                <p class="card-text fw-bold">SuperSet Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9019064122
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shreya-dalbanjan-79683222b'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_shreya_4122?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
@@ -269,10 +269,10 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">Hemanth Bellad</h5>
                                <p class="card-text fw-bold">OnCampus Drive Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7676242746
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/hemanth-bellad-01b427263'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/hemanth_bellad?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
@@ -325,7 +325,7 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">Raju Negali</h5>
                                <p class="card-text fw-bold">Post-Offers Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/6363910461
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
                                <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
                                <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
@@ -339,10 +339,10 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">Shreedevi Chikkamath</h5>
                                <p class="card-text fw-bold">SuperSet Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9686034520
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shreedevi-chikkamath-6a0b1322a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href=' https://instagram.com/its_me_devishree?igshid=ZDdkNTZiNTM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
@@ -353,10 +353,10 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">Hebel Niraj</h5>
                                <p class="card-text fw-bold">Post-Offers Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7337802174
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
                                <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/hebel_niraj?igshid=ZDdkNTZiNTM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
@@ -395,10 +395,10 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">Spoorti</h5>
                                <p class="card-text fw-bold">E2E Hiring Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9110612854
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/spoorti-hiregoudar-4884b8258'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/spoortii__h?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
@@ -409,10 +409,11 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">DG Abhay</h5>
                                <p class="card-text fw-bold">E2E Hiring Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9113849352
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/d-g-abhay-688786257'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a> 
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/dg_abhay07?igshid=NTA5ZTk1NTc='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+
                            </div>
                        </div>
                    </div>
@@ -479,10 +480,10 @@ function team() {
                            <div class="card-body">
                                <h5 class="card-title">Soniya Raikar</h5>
                                <p class="card-text fw-bold">Post-Offers Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9108543446
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/sonia-raikar-9b4049250'> <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/soniaaraikar?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
@@ -491,12 +492,15 @@ function team() {
                        <div class="card card-team darkblue-txt">
                            <img src={abhi} class="card-img-top" alt="" />
                            <div class="card-body">
-                               <h5 class="card-title">Abhishek</h5>
+                               <h5 class="card-title">Abhishek Bachanalli</h5>
                                <p class="card-text fw-bold">Alumni Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                               
+
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9845135061
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/abhishek-bachanalli-7b57a9228'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/abhi_1_2_1?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+
                            </div>
                        </div>
                    </div>

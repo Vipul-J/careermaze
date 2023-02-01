@@ -19,7 +19,7 @@ function events() {
                         <div class="card">
                             <img src={site} class="card-img-top" alt="..." height={250} />
                             <div class="card-body">
-                                <h2 class="card-title text-center fw-bold darkblue-txt border rounded">Site It</h2>
+                                <h2 class="card-title text-center fw-bold darkblue-txt border border-2 rounded">Site It</h2>
                                 <h5 class="card-text text-center">Style and Show off!
                                 </h5>
                                 <p className='fs-5'>Be the creative coder with cited approach...
@@ -34,7 +34,7 @@ function events() {
                         <div class="card">
                             <img src={build} class="card-img-top" alt="..." height={250} />
                             <div class="card-body">
-                                <h2 class="card-title text-center fw-bold darkblue-txt  border rounded">Build</h2>
+                                <h2 class="card-title text-center fw-bold darkblue-txt border border-2 rounded">Build</h2>
                                 <h5 class="card-text text-center">Scrutiny of Resume
                                 </h5>
                                 <p className='fs-5'>Build and design the bestest resume of all time...
@@ -49,7 +49,7 @@ function events() {
                         <div class="card">
                             <img src={abide} class="card-img-top" alt="..." height={250} />
                             <div class="card-body">
-                                <h2 class="card-title text-center fw-bold darkblue-txt  border rounded">Abide</h2>
+                                <h2 class="card-title text-center fw-bold darkblue-txt border border-2 rounded">Abide</h2>
                                 <h5 class="card-text text-center">Attempt with attitude
                                 </h5>
                                 <p className='fs-5'>Be the big brain and show your logics...
@@ -64,7 +64,7 @@ function events() {
                         <div class="card">
                             <img src={aspire} class="card-img-top" alt="..." height={250} />
                             <div class="card-body">
-                                <h2 class="card-title text-center fw-bold darkblue-txt border rounded">Aspire</h2><h5 class="card-text text-center">Win with your Words
+                                <h2 class="card-title text-center fw-bold darkblue-txt border border-2 rounded">Aspire</h2><h5 class="card-text text-center">Win with your Words
                                 </h5>
                                 <p className='fs-5'>Be the one with creative words and convincing nature...
                                 </p>
