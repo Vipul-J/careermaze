@@ -417,17 +417,17 @@ function team() {
                            </div>
                        </div>
                    </div>
-                   {/* Keertiraj */}
+                   {/* Harshita */}
                    <div class="col-6 col-sm-3 col-md-3 col-lg-3">
                        <div class="card card-team darkblue-txt">
                            <img src={kraj} class="card-img-top" alt="" />
                            <div class="card-body">
-                               <h5 class="card-title">Keertiraj S.K</h5>
-                               <p class="card-text fw-bold">Alumni Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8123719660
+                               <h5 class="card-title">Harshita Shet</h5>
+                               <p class="card-text fw-bold">SuperSet Co-ordinator</p>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9741764752
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/keertiraj-kadadevarmath'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_._kittuuu?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/harshita-shet-251b1322a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a class="text-decoration-none darkblue-txt fw-bold" href=' https://instagram.com/harshita_shet?igshid=ZDdkNTZiNTM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
