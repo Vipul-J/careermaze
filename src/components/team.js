@@ -6,6 +6,7 @@ import roshan from '../assets/images/roshan.jpg'
 import saif from '../assets/images/saif.jpg'
 import abhay from '../assets/images/abhay.jpeg'
 import aishH from '../assets/images/aishH.jpeg'
+import deepa from '../assets/images/deepa.jpeg'
 import gouravi from '../assets/images/gouravi.jpeg'
 import shreeHari from '../assets/images/shreeHari.jpg'
 import prateek from '../assets/images/prateek.jpeg'
@@ -557,6 +558,20 @@ function team() {
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/roshan-peter-57378325a/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/roshann_x65x/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                           </div>
+                       </div>
+                   </div>
+                   {/* Deepa */}
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={deepa} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Deepa Desali</h5>
+                               <p className="card-text fw-bold">Communication Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7975991987
+'>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/deepa-desalli-264a29242'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/deepu_desalli87?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
