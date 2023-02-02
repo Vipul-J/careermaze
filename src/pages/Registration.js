@@ -79,9 +79,9 @@ function Registration() {
                 <div className="container">
 
 
-                        <div class="text-center darkblue-txt mt-4 mb-4">
+                        <div className="text-center darkblue-txt mt-4 mb-4">
                             <h1 className='sec-heading fw-bold text-decoration-underline'>REGISTRATION</h1>
-                            <h3 class="text-inverse">
+                            <h3 className="text-inverse">
                                 Participants for the events should be in group of 6.
                             </h3>
                             <h3 className='fw-bold'>(Group should have participants from atleast 3 different classes)

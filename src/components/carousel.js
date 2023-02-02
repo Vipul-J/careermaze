@@ -5,10 +5,10 @@ import weBanner from '../assets/images/weBanner.png';
 function carousel() {
     return (
         <>
-            <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <img src={weBanner} class="d-block w-100" alt="..." />
+            <div id="carouselExampleIndicators" className="carousel slide" data-bs-ride="carousel">
+                <div className="carousel-inner">
+                    <div className="carousel-item active">
+                        <img src={weBanner} className="d-block w-100" alt="..." />
                     </div>
                 </div>
             </div>

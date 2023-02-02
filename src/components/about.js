@@ -4,18 +4,18 @@ import abtImage from '../assets/images/abtImage.png';
 function about() {
     return (
         <>
-            <div class="container" id='about'>
-            <div class="d-flex justify-content-center mt-4 mb-4">
-            <h1 class="fw-bold sec-heading darkblue-txt">What is Career Maze?</h1>
+            <div className="container" id='about'>
+            <div className="d-flex justify-content-center mt-4 mb-4">
+            <h1 className="fw-bold sec-heading darkblue-txt">What is Career Maze?</h1>
         </div>
 
-                <div class="row">
-                    <div class="col-lg-6">
+                <div className="row">
+                    <div className="col-lg-6">
                         <div className='text-center'>
                             <img src={abtImage} className='img-fluid' />
                         </div>
                     </div>
-                    <div class="col-lg-6">
+                    <div className="col-lg-6">
                         <div className=' text-lg-left'>
                             <p className='para-large-txt'>
                                 Career Maze is an in-house event organized by <span className='text-danger fw-bold'> Talent Acquisition Cell </span>. Career Maze stands to encourage, motivate and prepare students for placement drives with their blooming skills and great minds.

@@ -43,520 +43,520 @@ function team() {
     return (
         <>
             <div className='container' id='committee'>
-                <div class="text-center mt-4 " id="Teaser">
-                    <h1 class="fw-bold sec-heading darkblue-txt">Talent Acquisition Cell </h1>
-                    <h4 className='class="fw-bold darkblue-txt"'>“Coming together is a beginning. Keeping together is progress. Working together is success.” </h4>
+                <div className="text-center mt-4 " id="Teaser">
+                    <h1 className="fw-bold sec-heading darkblue-txt">Talent Acquisition Cell </h1>
+                    <h4 className='className="fw-bold darkblue-txt"'>“Coming together is a beginning. Keeping together is progress. Working together is success.” </h4>
                 </div>
-                <div class="row ">
+                <div className="row ">
                     {/* princi */}
-                    <div class="col-sm mb-4">
-                        <div class="card card-team darkblue-txt">
-                            <img src={sunilS} class="card-img-top" alt="" />
-                            <div class="card-body">
-                                <h5 class="card-title">Prof.Sunil Vernekar</h5>
-                                <p class="card-text fw-bold fs-5">Principal</p>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9986735526'>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/sunil-vernekar-96023143/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/sunil_h_vernekar/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                    <div className="col-sm mb-4">
+                        <div className="card card-team darkblue-txt">
+                            <img src={sunilS} className="card-img-top" alt="" />
+                            <div className="card-body">
+                                <h5 className="card-title">Prof.Sunil Vernekar</h5>
+                                <p className="card-text fw-bold fs-5">Principal</p>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9986735526'>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/sunil-vernekar-96023143/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/sunil_h_vernekar/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                             </div>
                         </div>
                     </div>
                     {/* officer */}
-                    <div class="col-sm mb-4">
-                        <div class="card card-team darkblue-txt">
-                            <img src={sidduK} class="card-img-top" alt="" />
-                            <div class="card-body">
-                                <h5 class="card-title">Prof.S C Kadakol</h5>
-                                <p class="card-text fw-bold fs-5">Training & Placement Officer</p>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7406493702'>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shiddalingappa-kadakol-56733678/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/siddhu_kadakol/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                    <div className="col-sm mb-4">
+                        <div className="card card-team darkblue-txt">
+                            <img src={sidduK} className="card-img-top" alt="" />
+                            <div className="card-body">
+                                <h5 className="card-title">Prof.S C Kadakol</h5>
+                                <p className="card-text fw-bold fs-5">Training & Placement Officer</p>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7406493702'>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shiddalingappa-kadakol-56733678/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/siddhu_kadakol/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                             </div>
                         </div>
                     </div>
                     {/* Secretary */}
-                    <div class="col-sm mb-4">
-                        <div class="card card-team darkblue-txt">
-                            <img src={vipulJ} class="card-img-top" alt="" />
-                            <div class="card-body">
-                                <h5 class="card-title">Vipul Jujar</h5>
-                                <p class="card-text fw-bold fs-5">Placement Secretary</p>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9591074133'>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/vipul-jujar-a36497189'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/jujar_vipul/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                    <div className="col-sm mb-4">
+                        <div className="card card-team darkblue-txt">
+                            <img src={vipulJ} className="card-img-top" alt="" />
+                            <div className="card-body">
+                                <h5 className="card-title">Vipul Jujar</h5>
+                                <p className="card-text fw-bold fs-5">Placement Secretary</p>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9591074133'>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/vipul-jujar-a36497189'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/jujar_vipul/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                             </div>
                         </div>
                     </div>
                     {/* Secretary */}
-                    <div class="col-sm mb-4">
-                        <div class="card card-team darkblue-txt">
-                            <img src={duanshiS} class="card-img-top" alt="" />
-                            <div class="card-body">
-                                <h5 class="card-title">Duanshi B Shah</h5>
-                                <p class="card-text fw-bold fs-5">Placement Secretary</p>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7012971097'>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/duanshi-b-shah-711b1222a/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                                <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/duanshi_/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                    <div className="col-sm mb-4">
+                        <div className="card card-team darkblue-txt">
+                            <img src={duanshiS} className="card-img-top" alt="" />
+                            <div className="card-body">
+                                <h5 className="card-title">Duanshi B Shah</h5>
+                                <p className="card-text fw-bold fs-5">Placement Secretary</p>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7012971097'>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/duanshi-b-shah-711b1222a/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                                <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/duanshi_/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="row ">
+                <div className="row ">
                    {/* Aish p */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={aishP} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Aishwarya Pillai</h5>
-                               <p class="card-text fw-bold">E2E Hiring Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={aishP} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Aishwarya Pillai</h5>
+                               <p className="card-text fw-bold">E2E Hiring Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/aishwarya-pillai-a5384a249'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/aiissshu?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/aishwarya-pillai-a5384a249'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/aiissshu?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Vishwa n */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={vishwaN} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Vishwanath R Naragund</h5>
-                               <p class="card-text fw-bold">E2E Hiring Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8660854864
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={vishwaN} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Vishwanath R Naragund</h5>
+                               <p className="card-text fw-bold">E2E Hiring Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8660854864
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/vishwanath-r-nargund-b06073249'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/gamersyt_2003?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/vishwanath-r-nargund-b06073249'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/gamersyt_2003?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* RahulA */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={rahulA} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Rahul Aili</h5>
-                               <p class="card-text fw-bold">SuperSet Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9880937463
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={rahulA} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Rahul Aili</h5>
+                               <p className="card-text fw-bold">SuperSet Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9880937463
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/rahul-aili-2067a8225'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/rahul_aili?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/rahul-aili-2067a8225'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/rahul_aili?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Yonita */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={yonita} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Yonita Furtado</h5>
-                               <p class="card-text fw-bold">Communication Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9663772623
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={yonita} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Yonita Furtado</h5>
+                               <p className="card-text fw-bold">Communication Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9663772623
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/yonita-furtado-018357242'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/yonita_furtado?igshid=YmMyMTA2M2Y=
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/yonita-furtado-018357242'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/yonita_furtado?igshid=YmMyMTA2M2Y=
 '>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Muskan */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={muskan} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Muskan Dafedar</h5>
-                               <p class="card-text fw-bold">OnCampus Drive Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8867988280
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={muskan} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Muskan Dafedar</h5>
+                               <p className="card-text fw-bold">OnCampus Drive Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8867988280
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/muskan-dafedar-392600258'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/muskan.d.1557?igshid=YmMyMTA2M2Y='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/muskan-dafedar-392600258'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/muskan.d.1557?igshid=YmMyMTA2M2Y='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Harshit */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={harryV} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Harshit V Vaidya</h5>
-                               <p class="card-text fw-bold">E2E Hiring Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8762203544
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={harryV} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Harshit V Vaidya</h5>
+                               <p className="card-text fw-bold">E2E Hiring Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8762203544
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href=' https://www.linkedin.com/in/harshit-vaidya-7a3854229'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href=' https://instagram.com/harshit.vaidya.79?igshid=ZmZhODViOGI='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href=' https://www.linkedin.com/in/harshit-vaidya-7a3854229'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href=' https://instagram.com/harshit.vaidya.79?igshid=ZmZhODViOGI='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Nikhil */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={niks} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Nikhil Raikar</h5>
-                               <p class="card-text fw-bold">SuperSet Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7899272068
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={niks} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Nikhil Raikar</h5>
+                               <p className="card-text fw-bold">SuperSet Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7899272068
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/nikhil-raikar'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_.nikkkhill?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/nikhil-raikar'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_.nikkkhill?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Aish C */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={aishC} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Aishwarya C</h5>
-                               <p class="card-text fw-bold">Post-Offers Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9380913935 
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={aishC} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Aishwarya C</h5>
+                               <p className="card-text fw-bold">Post-Offers Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9380913935 
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/aishwarya-c-1a5b1522a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/aishwarya-c-1a5b1522a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Shreya D */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={shreyD} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Shreya Dalbanjan</h5>
-                               <p class="card-text fw-bold">SuperSet Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9019064122
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={shreyD} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Shreya Dalbanjan</h5>
+                               <p className="card-text fw-bold">SuperSet Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9019064122
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shreya-dalbanjan-79683222b'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_shreya_4122?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shreya-dalbanjan-79683222b'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_shreya_4122?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Pragnya */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={pragnya} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Pragnya Shetty</h5>
-                               <p class="card-text fw-bold">Communication Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9606328977
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={pragnya} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Prajnya Shetty</h5>
+                               <p className="card-text fw-bold">Communication Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9606328977
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/prajnya-shetty-8397a9228
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/prajnya-shetty-8397a9228
 '>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/prajnya.shetty?igshid=ZmZhODViOGI=
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/prajnya.shetty?igshid=ZmZhODViOGI=
 '>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Adi SK */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={adiS} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Aditya S.K</h5>
-                               <p class="card-text fw-bold">OnCampus Drive Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8904671294
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={adiS} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Aditya S.K</h5>
+                               <p className="card-text fw-bold">OnCampus Drive Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8904671294
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='http://linkedin.com/in/aditya-karabasannavar-ab4436258
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='http://linkedin.com/in/aditya-karabasannavar-ab4436258
 '>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_aditya_sk_x77?igshid=NDk5N2NlZjQ=
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_aditya_sk_x77?igshid=NDk5N2NlZjQ=
 '>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Hemanth */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={hemya} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Hemanth Bellad</h5>
-                               <p class="card-text fw-bold">OnCampus Drive Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7676242746
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={hemya} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Hemanth Bellad</h5>
+                               <p className="card-text fw-bold">OnCampus Drive Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7676242746
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/hemanth-bellad-01b427263'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/hemanth_bellad?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/hemanth-bellad-01b427263'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/hemanth_bellad?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Akhil */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={akhil} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Akhil</h5>
-                               <p class="card-text fw-bold">Communication Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9019785450
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={akhil} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Akhil</h5>
+                               <p className="card-text fw-bold">Communication Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9019785450
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/akhil-s-pramod-6863ba1a9'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/akkkhil_911/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/akhil-s-pramod-6863ba1a9'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/akkkhil_911/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Sadanand */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={sada} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Sadanand Lalagi</h5>
-                               <p class="card-text fw-bold">OnCampus Drive Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8147509548
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={sada} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Sadanand Lalagi</h5>
+                               <p className="card-text fw-bold">OnCampus Drive Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8147509548
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/sadanand-lalagi-227565229'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/sadanand_l?igshid=YmMyMTA2M2Y='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/sadanand-lalagi-227565229'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/sadanand_l?igshid=YmMyMTA2M2Y='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Veeresh */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={veeresh} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Veeresh Kuratti</h5>
-                               <p class="card-text fw-bold">Post-Offers Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7259620168
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={veeresh} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Veeresh Kuratti</h5>
+                               <p className="card-text fw-bold">Post-Offers Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7259620168
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/veeresh-kuratti-27478722a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/veeruskuratti?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/veeresh-kuratti-27478722a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/veeruskuratti?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Raju  */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={raju} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Raju Negali</h5>
-                               <p class="card-text fw-bold">Post-Offers Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/6363910461
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={raju} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Raju Negali</h5>
+                               <p className="card-text fw-bold">Post-Offers Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/6363910461
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Shree Devi */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={shreedevi} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Shreedevi Chikkamath</h5>
-                               <p class="card-text fw-bold">SuperSet Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9686034520
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={shreedevi} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Shreedevi Chikkamath</h5>
+                               <p className="card-text fw-bold">SuperSet Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9686034520
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shreedevi-chikkamath-6a0b1322a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href=' https://instagram.com/its_me_devishree?igshid=ZDdkNTZiNTM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shreedevi-chikkamath-6a0b1322a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href=' https://instagram.com/its_me_devishree?igshid=ZDdkNTZiNTM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Hebel */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={hebel} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Hebel Niraj</h5>
-                               <p class="card-text fw-bold">Post-Offers Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7337802174
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={hebel} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Hebel Niraj</h5>
+                               <p className="card-text fw-bold">Post-Offers Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7337802174
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/hebel_niraj?igshid=ZDdkNTZiNTM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/hebel_niraj?igshid=ZDdkNTZiNTM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Supreet */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={supreet} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Supreet Gowda</h5>
-                               <p class="card-text fw-bold">Communication Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={supreet} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Supreet Gowda</h5>
+                               <p className="card-text fw-bold">Communication Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* ShriHari */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={shreeHari} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Shreehari Katti</h5>
-                               <p class="card-text fw-bold">Communication Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8904805118
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={shreeHari} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Shreehari Katti</h5>
+                               <p className="card-text fw-bold">Communication Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8904805118
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shrihari-katti-5107bb228'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/im_shrihari?igshid=YzgyMTM2MGM='> <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/shrihari-katti-5107bb228'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/im_shrihari?igshid=YzgyMTM2MGM='> <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Spoorti */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={spoorti} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Spoorti</h5>
-                               <p class="card-text fw-bold">E2E Hiring Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9110612854
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={spoorti} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Spoorti</h5>
+                               <p className="card-text fw-bold">E2E Hiring Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9110612854
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/spoorti-hiregoudar-4884b8258'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/spoortii__h?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/spoorti-hiregoudar-4884b8258'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/spoortii__h?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* DG Abhay */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={abhay} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">DG Abhay</h5>
-                               <p class="card-text fw-bold">E2E Hiring Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9113849352
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={abhay} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">DG Abhay</h5>
+                               <p className="card-text fw-bold">E2E Hiring Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9113849352
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/d-g-abhay-688786257'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a> 
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/dg_abhay07?igshid=NTA5ZTk1NTc='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/d-g-abhay-688786257'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a> 
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/dg_abhay07?igshid=NTA5ZTk1NTc='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
 
                            </div>
                        </div>
                    </div>
                    {/* Harshita */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={kraj} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Harshita Shet</h5>
-                               <p class="card-text fw-bold">SuperSet Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9741764752
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={kraj} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Harshita Shet</h5>
+                               <p className="card-text fw-bold">SuperSet Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9741764752
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/harshita-shet-251b1322a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href=' https://instagram.com/harshita_shet?igshid=ZDdkNTZiNTM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/harshita-shet-251b1322a'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href=' https://instagram.com/harshita_shet?igshid=ZDdkNTZiNTM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Samson */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={samson} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Samson Lopes</h5>
-                               <p class="card-text fw-bold">Alumni Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={samson} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Samson Lopes</h5>
+                               <p className="card-text fw-bold">Alumni Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Prateek */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={prateek} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Prateek Bhandari</h5>
-                               <p class="card-text fw-bold">Alumni Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7829607160
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={prateek} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Prateek Bhandari</h5>
+                               <p className="card-text fw-bold">Alumni Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7829607160
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/prateek-bhandari-b23798228'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/prateek__bhandari?igshid=Mzc0YWU1OWY='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/prateek-bhandari-b23798228'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/prateek__bhandari?igshid=Mzc0YWU1OWY='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Saif*/}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={saif} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Saif Badami</h5>
-                               <p class="card-text fw-bold">Alumni Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7338438806
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={saif} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Saif Badami</h5>
+                               <p className="card-text fw-bold">Alumni Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7338438806
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/saif-badami-146b43231/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/saif._.badami/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/saif-badami-146b43231/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/saif._.badami/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Soniya */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={soniya} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Soniya Raikar</h5>
-                               <p class="card-text fw-bold">Post-Offers Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9108543446
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={soniya} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Soniya Raikar</h5>
+                               <p className="card-text fw-bold">Post-Offers Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9108543446
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/sonia-raikar-9b4049250'> <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/soniaaraikar?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/sonia-raikar-9b4049250'> <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/soniaaraikar?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Abhishek */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={abhi} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Abhishek Bachanalli</h5>
-                               <p class="card-text fw-bold">Alumni Co-ordinator</p>
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={abhi} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Abhishek Bachanalli</h5>
+                               <p className="card-text fw-bold">Alumni Co-ordinator</p>
                                
 
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9845135061
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9845135061
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/abhishek-bachanalli-7b57a9228'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/abhi_1_2_1?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/abhishek-bachanalli-7b57a9228'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/abhi_1_2_1?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
 
                            </div>
                        </div>
                    </div>
                    {/* Shreetej */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={shree} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Shreetej</h5>
-                               <p class="card-text fw-bold">Alumni Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={shree} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Shreetej</h5>
+                               <p className="card-text fw-bold">Alumni Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7019436487
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='#'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Aishwarya H */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={aishH} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Aishwarya Hiremath</h5>
-                               <p class="card-text fw-bold">Alumni Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8792860153
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={aishH} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Aishwarya Hiremath</h5>
+                               <p className="card-text fw-bold">Alumni Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/8792860153
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/aishwarya-hiremath-32a192263'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_aishwarya__h_?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/aishwarya-hiremath-32a192263'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/_aishwarya__h_?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Goravi */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={gouravi} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Gouravi Wali</h5>
-                               <p class="card-text fw-bold">OnCampus Drive Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7022158987
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={gouravi} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Gouravi Wali</h5>
+                               <p className="card-text fw-bold">OnCampus Drive Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/7022158987
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/gouravi-wali-969855229'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/gouravi_wali?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/gouravi-wali-969855229'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://instagram.com/gouravi_wali?igshid=YzgyMTM2MGM='>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
                    {/* Roshan */}
-                   <div class="col-6 col-sm-3 col-md-3 col-lg-3">
-                       <div class="card card-team darkblue-txt">
-                           <img src={roshan} class="card-img-top" alt="" />
-                           <div class="card-body">
-                               <h5 class="card-title">Roshan Peter</h5>
-                               <p class="card-text fw-bold">Communication Co-ordinator</p>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9741750362
+                   <div className="col-6 col-sm-3 col-md-3 col-lg-3">
+                       <div className="card card-team darkblue-txt">
+                           <img src={roshan} className="card-img-top" alt="" />
+                           <div className="card-body">
+                               <h5 className="card-title">Roshan Peter</h5>
+                               <p className="card-text fw-bold">Communication Co-ordinator</p>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://wa.me/9741750362
 '>  <FontAwesomeIcon icon={faSquareWhatsapp} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/roshan-peter-57378325a/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
-                               <a class="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/roshann_x65x/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.linkedin.com/in/roshan-peter-57378325a/'>  <FontAwesomeIcon icon={faLinkedin} size='2xl' /></a>
+                               <a className="text-decoration-none darkblue-txt fw-bold" href='https://www.instagram.com/roshann_x65x/'>  <FontAwesomeIcon icon={faInstagramSquare} size='2xl' /></a>
                            </div>
                        </div>
                    </div>
