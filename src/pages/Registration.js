@@ -34,7 +34,7 @@ function Registration() {
         setSubmitButton('LOADING...');
         setDisableSubmitButton(true);
         try {
-           let apiData = await axios.post(`https://inhouse-generic-services.el.r.appspot.com/write`, {
+           let apiData = await axios.post(``, {
                 name: data.name,
                 rollno: data.rollno,
                 name2: data.name2,
@@ -49,7 +49,7 @@ function Registration() {
                 rollno6: data.rollno6,
                 name7:data.name7,
                 sheetName: 'TPC Test',
-                spreadsheetId: '1JdA9ty-u5VOXQI71TbWulRdTBfOTbIAzTxxV56iIKUs'
+                spreadsheetId: ''
             }, '', {
                 "Content-type": "application/json"
             });
@@ -60,12 +60,12 @@ function Registration() {
                 setDisableSubmitButton(false);
             } else {
                 setSubmitButton('SUBMIT');
-                toast.error('Something went wrong');
+                toast.error('Registration timeline is over!');
                 setDisableSubmitButton(false);
             }
         } catch (e) {
             setSubmitButton('SUBMIT');
-            toast.error('Something went wrong');
+            toast.error('Registration timeline is over!');
             setDisableSubmitButton(false);
         }
     };

@@ -1,5 +1,4 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import logo1 from '../assets/images/logo1.png';
 import logo2 from '../assets/images/logo2.png';
 function skills() {

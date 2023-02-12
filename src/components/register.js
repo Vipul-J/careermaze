@@ -15,7 +15,7 @@ function register() {
                         </h3>
                         <h3 className='fw-bold'>(Group should have participants from atleast 3 different classes)
                         </h3>
-                        {/* <a href="#" className="btn btn-lg btn-danger" role="button">START.....</a> */}
+                        {/* <a href="#" className="btn btn-lg btn-danger" role="button">Registration begins on 03-02-2023 at 10am</a> */}
                         <Link to="/registration" className="btn btn-lg btn-danger">Start Registration</Link>
                     </div>
                 </div>
